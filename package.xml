@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>turtle_snake_game</name>
+  <version>0.0.0</version>
+  <description>The turtle_snake_game package</description>
+
+  <maintainer email="sakthi.08.v@gmail.com">sakthi</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>turtlesim</build_depend>
+  <build_export_depend>rospy</build_export_depend>
+  <build_export_depend>std_msgs</build_export_depend>
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>turtlesim</exec_depend>
+
+  
+  <export>
+    
+
+  </export>
+</package>
