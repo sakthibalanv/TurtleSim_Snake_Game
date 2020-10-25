@@ -58,7 +58,5 @@ Version 1.0.0
 
 ### Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ALQ7u93EEtw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+[![Turtle Snake Game Demo](http://img.youtube.com/vi/ALQ7u93EEtw/0.jpg)](https://www.youtube.com/watch?v=ALQ7u93EEtw)
 
